@@ -13,5 +13,4 @@
    java MainMesinPakan
 
 ## 3. Luaran Program
-![Luaran Program](foto1.png)
-![Luaran Program](foto2.png)
+![Luaran Program](output.png)
